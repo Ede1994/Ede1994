@@ -15,7 +15,6 @@
 <div>
 <p align="center">
 <img src="https://raw.githubusercontent.com/rijobro/rijobro/main/ims/python.svg" alt="python" width="57" height="55"/>
-<img src="https://raw.githubusercontent.com/rijobro/rijobro/main/ims/matlab.svg" alt="matlab" width="57" height="55"/>
 <img src="https://raw.githubusercontent.com/rijobro/rijobro/main/ims/bash.svg" alt="bash" width="57" height="55"/>
 <img src="https://raw.githubusercontent.com/rijobro/rijobro/main/ims/git.svg" alt="git" width="57" height="55"/>
 <img src="https://raw.githubusercontent.com/rijobro/rijobro/main/ims/github.svg" alt="github" width="57" height="55"/>
