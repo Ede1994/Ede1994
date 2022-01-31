@@ -1,7 +1,7 @@
 ### Hi there, I'm Eric 👋
 
 ## About Me:
-- 🎓 Full-time Medical Physicist and PhD
+- 🎓 Full-time Medical Physicist and PhD student
 - 👨‍💻 Interested in: Nuclear Medicine, Image Reconstruction, Image Registration, Motion Correction
 - [LinkedIn](https://www.linkedin.com/in/eric-einsp%C3%A4nner-82a049185/)
 - [ResearchGate](https://www.researchgate.net/profile/Eric-Einspaenner)
