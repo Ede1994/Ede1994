@@ -13,7 +13,7 @@
   - [ORCiD](https://orcid.org/0000-0003-2363-5132)
 
 
--Contact:
+- Contact:
   - 📫 How to reach me: eric.einspaenner@med.ovgu.de
 
 ## 👨🏻‍💻 Languages/Tools:
