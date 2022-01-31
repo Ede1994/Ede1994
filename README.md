@@ -6,10 +6,11 @@
 - [LinkedIn](https://www.linkedin.com/in/eric-einsp%C3%A4nner-82a049185/)
 - [ResearchGate](https://www.researchgate.net/profile/Eric-Einspaenner)
 - [ORCiD](https://orcid.org/0000-0003-2363-5132)
-- 📫 How to reach me: eric.einspaenner@med.ovgu.de
 
 - 🔭 I’m currently working on: Motion Correction PET Imaging
 - 🌱 I’m currently learning: DeepLearning algorithms in Python and integration into the clinical routine
+
+- 📫 How to reach me: eric.einspaenner@med.ovgu.de
 
 ## 👨🏻‍💻 Languages/Tools:
 <div>
