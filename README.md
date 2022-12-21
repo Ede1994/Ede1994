@@ -22,4 +22,7 @@
 <img src="Img/Python_logo.svg" alt="python" width="57" height="55"/>
 <img src="Img/Bash_Logo.svg" alt="bash" width="57" height="55"/>
 <img src="Img/SQL_Logo.svg" alt="sql" width="57" height="55"/>
+<img src="Img/html5_logo.svg" alt="html5" width="57" height="55"/>
 <img src="Img/Github_logo.svg" alt="github" width="57" height="55"/>
+<img src="Img/keras_logo.svg" alt="keras" width="57" height="55"/>
+<img src="Img/pytorch_logo.svg" alt="pytorch" width="57" height="55"/>
