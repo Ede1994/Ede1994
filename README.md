@@ -19,9 +19,7 @@
 ## 👨🏻‍💻 Languages/Tools:
 <div>
 <p align="center">
-<img src="https://raw.githubusercontent.com/rijobro/rijobro/main/ims/python.svg" alt="python" width="57" height="55"/>
-<img src="https://raw.githubusercontent.com/rijobro/rijobro/main/ims/bash.svg" alt="bash" width="57" height="55"/>
-<img src="https://raw.githubusercontent.com/rijobro/rijobro/main/ims/git.svg" alt="git" width="57" height="55"/>
-<img src="https://raw.githubusercontent.com/rijobro/rijobro/main/ims/github.svg" alt="github" width="57" height="55"/>
-
 <img src="Img/Python_logo.svg" alt="python" width="57" height="55"/>
+<img src="Img/Bash_Logo.svg" alt="bash" width="57" height="55"/>
+<img src="Img/SQL_Logo.svg" alt="sql" width="57" height="55"/>
+<img src="Img/Github_logo.svg" alt="github" width="57" height="55"/>
