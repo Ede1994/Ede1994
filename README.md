@@ -2,8 +2,8 @@
 
 ## About Me:
 - 🎓 Full-time Medical Physicist and PhD student
-- 👨‍💻 Interested in: Nuclear Medicine, Image Reconstruction, Image Registration, Motion Correction
-- 🔭 I’m currently working on: Motion Correction PET Imaging
+- 👨‍💻 Interested in: AI, Image Reconstruction, Image Registration, Motion Correction
+- 🔭 I’m currently working on: DeepLearning algorithms in Python
 - 🌱 I’m currently learning: DeepLearning algorithms in Python and integration into the clinical routine
 
 
