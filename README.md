@@ -26,7 +26,7 @@
 
 ![python](Img/Python_logo.svg)
   <img
-  src="Img/Python_logo"
+  src="Img/Python_logo.svg"
   alt="Alt text"
   title="Optional title"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
