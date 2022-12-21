@@ -24,7 +24,7 @@
 <img src="https://raw.githubusercontent.com/rijobro/rijobro/main/ims/git.svg" alt="git" width="57" height="55"/>
 <img src="https://raw.githubusercontent.com/rijobro/rijobro/main/ims/github.svg" alt="github" width="57" height="55"/>
 
-![python](Img/Python_logo)
+![python](Img/Python_logo.svg)
   <img
   src="Img/Python_logo"
   alt="Alt text"
