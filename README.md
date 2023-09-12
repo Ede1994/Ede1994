@@ -14,7 +14,7 @@
 
 
 - Contact:
-  - 📫 How to reach me: eric.einspaenner@med.ovgu.de
+  - 📫 How to reach me: eric.einspaenner@med.ovgu.de OR eric.einspaenner@dzne.de
 
 ## 👨🏻‍💻 Languages/Tools:
 <div>
