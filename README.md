@@ -1,11 +1,10 @@
 ### Hi there, I'm Eric 👋
 
 ## About Me:
-- 🎓 Full-time Medical Physicist and PhD student
-- 👨‍💻 Interested in: AI, Image Reconstruction, Image Registration, Motion Correction
+- 🎓 Researcher and PhD
+- 👨‍💻 Interested in: AI, Medical Image and Data Processing
 - 🔭 I’m currently working on: DeepLearning algorithms in Python
-- 🌱 I’m currently learning: DeepLearning algorithms in Python and integration into the clinical routine
-
+- 🌱 I’m currently learning: New things about the possibilities and opportunities offered by AI in everyday clinical practice
 
 - Links:
   - [LinkedIn](https://www.linkedin.com/in/eric-einsp%C3%A4nner-82a049185/)
@@ -14,7 +13,7 @@
 
 
 - Contact:
-  - 📫 How to reach me: eric.einspaenner@med.ovgu.de OR eric.einspaenner@dzne.de
+  - 📫 How to reach me: eric.einspaenner@med.ovgu.de OR eric.einspaenner@ovgu.de
 
 ## 👨🏻‍💻 Languages/Tools:
 <div>
